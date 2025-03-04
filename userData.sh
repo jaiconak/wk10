@@ -14,7 +14,7 @@ echo '<html>
     </style>
 </head>
 <body>
-    <h1>Welcome MASSA Jaico.</h1>
+    <h1>Welcome Jaico.</h1>
     <p>You are redirected to '"${HOSTNAME}"' to see how the load balancer is sharing the traffic.</p>
 </body>
 </html>' > /var/www/html/index.html
